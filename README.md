@@ -178,6 +178,10 @@ https://public.tableau.com/app/profile/kalyani.kavuri
 
 ---
 
+## Tags
+
+#Python #Tableau #DataAnalytics #BusinessIntelligence #GeospatialAnalytics #MScDissertation
+
 ## License
 
 This repository is published for academic, research, and portfolio purposes.
